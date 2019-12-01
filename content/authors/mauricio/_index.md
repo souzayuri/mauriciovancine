@@ -21,7 +21,7 @@ interests:
 - Amphibiam Ecology
 - Data science / statistics
 - Open source
-name:
+name: Maurício Vancine
 organizations:
 - name: São Paulo State University (UNESP)
   url: "https://www.rc.unesp.br/"
