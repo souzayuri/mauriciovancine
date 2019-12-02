@@ -16,7 +16,7 @@ education:
 email: "mauricio.vancine@gmail.com"
 interests:
 - Spatial Ecology
-- Quantitative Ecolog
+- Quantitative Ecology
 - Species Distribution Modeling
 - Amphibiam Ecology
 - Data science / statistics
@@ -29,7 +29,7 @@ role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mauriciovancine
@@ -52,6 +52,4 @@ superuser: true
 user_groups:
 ---
 
-I am a PhD student at the Department of Ecology of the São Paulo State University, São Paulo, Brazil. My research is focused in understand the spatial pattern of amphibian communities distribution in the Atlantic Forest Biome.
-
-I have interested in statistics, geocomputation, spatial ecology, quantitative ecology, species distribution models, landscape ecology, and amphibiam ecology.
+I am a PhD student at the Department of Ecology of the São Paulo State University, São Paulo, Brazil. I have interested in statistics, geocomputation, spatial ecology, quantitative ecology, species distribution models, landscape ecology, and amphibiam ecology.

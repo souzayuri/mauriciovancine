@@ -17,11 +17,20 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-  
+ 
 [[experience]]
   title = "Research Assistant"
-  company = "São Paulo State University (UNESP), Spatial Ecology and Conservation Lab (LEEC)"
-  company_url = "https://www.ohsu.edu/"
+  company = "Ecosystem Dynamics Observatory (EcoDyn), São Paulo State University (UNESP)"
+  company_url = "https://tscanada.wixsite.com/ecodyn"
+  location = "Rio Claro, SP, Brazil"
+  date_start = "2018-07-01"
+  date_end = "2018-12-31"
+  description = """Shiny application development"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Spatial Ecology and Conservation Lab (LEEC), São Paulo State University (UNESP)"
+  company_url = "https://ib.rc.unesp.br/#!/departamentos/ecologia/leec/home/"
   location = "Rio Claro, SP, Brazil"
   date_start = "2015-03-01"
   date_end = "2016-02-28"
