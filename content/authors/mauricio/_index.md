@@ -1,10 +1,10 @@
 ---
 authors:
 - mauricio
-bio: I am a Ecologist.
+bio: Ecologist
 education:
   courses:
-  - course: PhD in Ecology
+  - course: PhD Student in Ecology
     institution: São Paulo State University (UNESP)
     year: Present
   - course: MSc in Zoology
@@ -19,7 +19,7 @@ interests:
 - Quantitative Ecology
 - Species Distribution Modeling
 - Amphibiam Ecology
-- Data science / statistics
+- Data science / Statistics
 - Open source
 name: Maurício Vancine
 organizations:
@@ -52,4 +52,4 @@ superuser: true
 user_groups:
 ---
 
-I am a PhD student at the Department of Ecology of the São Paulo State University, São Paulo, Brazil. I have interested in statistics, geocomputation, spatial ecology, quantitative ecology, species distribution models, landscape ecology, and amphibiam ecology.
+I am a PhD student at the Department of Ecology of the São Paulo State University, São Paulo, Brazil. I have interested in spatial ecology, landscape ecology, quantitative ecology, species distribution models (SDMs), amphibian ecology, statistics, and geocomputation
