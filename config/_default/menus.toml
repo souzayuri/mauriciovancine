@@ -7,33 +7,38 @@
   name = "Blog"
   url = "/post"
   weight = 10
+
+[[main]]
+  name = "Videos"
+  url = "/videos"
+  weight = 20
   
 [[main]]
   name = "Talks"
   url = "/talk"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Courses"
   url = "/courses"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Projects"
   url = "/project"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Publications"
   url = "/publication"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "CV"
-  url = "files/cv_mauricio_vancine_2019_11_eg_academic.html"
-  weight = 60
+  url = "https://mauriciovancine.netlify.com/files/cv_mauricio_vancine_2019_12_eg_academic.pdf"
+  weight = 70
 
 [[main]]
   name = "About/Contact"
   url = "/contact"
-  weight = 70
+  weight = 80

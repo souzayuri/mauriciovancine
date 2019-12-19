@@ -23,11 +23,11 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   image = ""  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -42,12 +42,15 @@ subtitle = ""
 [advanced]
  # Custom CSS. 
  css_style = ""
- 
+
  # CSS class.
  css_class = "mini"
 +++
 
-I am originally from Socorro, São Paulo, Brazil.
+I am originally from Socorro, a little city in the interior from São Paulo state, Brazil.
 
-<img src="boana_faber.jpg" class="center-block" alt="OHSU Research Week Poster" style="width:60%;height:60%;">
+<div class="container">
+  <img src="socorro.jpg" class="center-block" alt="Photo: Ricardo Beccari" style="width:60%;height:60%;">
+  <div class="bottom-right">Photo: Ricardo Beccari</div>
+</div>
 
