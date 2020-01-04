@@ -52,4 +52,4 @@ superuser: true
 user_groups:
 ---
 
-I am a PhD student at the Department of Ecology of the São Paulo State University, São Paulo, Brazil. I have interested in spatial ecology, landscape ecology, quantitative ecology, species distribution models (SDMs), amphibian ecology, statistics, and geocomputation
+I am a PhD student at the [Department of Biodiversity](https://ib.rc.unesp.br/#!/departamentos/ecologia/) of the [São Paulo State University](https://ib.rc.unesp.br/#!/), São Paulo, Brazil. I have interested in spatial ecology, landscape ecology, quantitative ecology, species distribution models (SDMs), amphibian ecology, statistics, and geocomputation
