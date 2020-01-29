@@ -13,6 +13,6 @@ library(tidyverse)
 setwd("/home/mude/data/github/mauriciovancine/static/files")
 
 # convert to pdf
-purrr::map(dir(pattern = ".Rmd$"), pagedown::chrome_print)
+pagedown::chrome_print(dir(pattern = ".Rmd$"))
 
 # end ---------------------------------------------------------------------
