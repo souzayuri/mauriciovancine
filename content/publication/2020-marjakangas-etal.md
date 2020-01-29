@@ -6,20 +6,20 @@ date = "2019-11-17"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "*Diversity and Distributions*, 00, 1-15"
+publication = "*Diversity and Distributions*, 26, 154-168"
 publication_short = ""
 selected = false
 title = "Fragmented tropical forests lose mutualistic plant-animal interactions"
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/2019_marjakangas_etal.pdf"
+url_pdf = "pdf/2020_marjakangas_etal.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "View Journal Article"
-url = "https://doi.org/10.1016/j.actao.2018.01.001"
+url = "https://doi.org/10.1111/ddi.13010"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
