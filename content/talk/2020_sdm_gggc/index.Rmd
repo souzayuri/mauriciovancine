@@ -2,8 +2,8 @@
 title: "Modelos de Distribuição de Espécies: uma visão geral"
 subtitle: 
 draft: false
-event: "Visita ao Laboratório da Profa. Maria Zucchi (USP/ESALQ)"
-event_url:
+event: "Visita ao Laboratório (Grupo de Genética e Genômica da Conservação) da Profa. Maria Zucchi (USP/ESALQ)"
+event_url: https://www.genomicadaconservacao.com.br/
 location: Piracicaba, SP, Brazil
 summary: "Uma visão geral e aplicações de Modelos de Distribuição de Espécies (SDMs)"
 
