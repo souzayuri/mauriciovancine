@@ -2,6 +2,7 @@
 header:
   caption: ""
   image: ""
-title: All Talks & Workshops
-view: 2
+layout: docs
+title: Courses
 ---
+
