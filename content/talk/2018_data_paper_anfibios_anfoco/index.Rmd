@@ -25,7 +25,7 @@ links:
   url: "https://786a59ff-4099-4c37-8d3f-2fe39152753e.filesusr.com/ugd/99d5c4_a555a73fa21a4ca99c4183ca07d0dd30.pdf"
 
 categories:
-  - palestra
+  - talk
 tags:
   - dataset
   - amphibians

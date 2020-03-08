@@ -2,7 +2,7 @@
 title: "Modelos de Distribuição de Espécies: uma visão geral"
 subtitle: 
 draft: false
-event: "Visita ao Laboratório (Grupo de Genética e Genômica da Conservação) da Profa. Maria Zucchi (USP/ESALQ)"
+event: "Visita ao Grupo de Genética e Genômica da Conservação da Profa. Maria Zucchi (USP/ESALQ)"
 event_url: https://www.genomicadaconservacao.com.br/
 location: Piracicaba, SP, Brazil
 summary: "Uma visão geral e aplicações de Modelos de Distribuição de Espécies (SDMs)"
@@ -21,7 +21,7 @@ links:
   url: "slides/2020_palestra_sdm_esalq.pdf"
 
 categories:
-  - palestra
+  - talk
 tags:
   - species distribution modelling
 lastmod: '2020-03-04T02:20:01-07:00'
