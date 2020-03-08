@@ -145,7 +145,6 @@ sharing = true
   post_view = 2
   publication_view = 2
   talk_view = 2
-  course_view = 2
 
 # Search.
 [search]
