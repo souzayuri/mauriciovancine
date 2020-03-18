@@ -18,7 +18,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "slides/2018_palestra_anfoco.pdf"
+  url: "https://mauriciovancine.netlify.com/slides/2018_palestra_anfoco.pdf"
 - icon: book
   icon_pack: fas
   name: resumos
