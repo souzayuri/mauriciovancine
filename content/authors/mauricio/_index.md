@@ -4,7 +4,7 @@ authors:
 bio: Ecologist
 education:
   courses:
-  - course: PhD Student in Ecology
+  - course: PhD Student in Zoology
     institution: São Paulo State University (UNESP)
     year: Present
   - course: MSc in Zoology
@@ -17,10 +17,10 @@ email: "mauricio.vancine@gmail.com"
 interests:
 - Spatial Ecology
 - Quantitative Ecology
-- Species Distribution Modeling
+- Species Distribution Modeling (SDM)
 - Amphibiam Ecology
-- Data science / Statistics
-- Open source
+- Data Science / Statistics
+- Open source / Free software
 name: Maurício Vancine
 organizations:
 - name: São Paulo State University (UNESP)
@@ -42,9 +42,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1391845/mauricio-vancine
-- icon: impactstory
-  icon_pack: ai
-  link: https://impactstory.org/u/0000-0001-9650-7575
+# - icon: impactstory
+#   icon_pack: ai
+#   link: https://impactstory.org/u/0000-0001-9650-7575
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=i-2xZBQAAAAJ
