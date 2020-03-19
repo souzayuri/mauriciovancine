@@ -1,0 +1,37 @@
+---
+title: "Manipulação e visualização de dados no R usando tidyverse"
+subtitle: 
+draft: false
+event: "RAM - Soluções Tecnológicas e Ambientais"
+event_url: https://www.ramambiental.com.br/cursos
+location: Rio Claro, RC, Brazil
+summary: "Curso - Introdução à programação em R usando tidyverse"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2020-06-05T19:00:00Z"
+date_end: "2020-06-06T12:00:00Z"
+all_day: true
+publishdate: "2020-03-18"
+
+links:
+- icon: github
+  icon_pack: fab
+  name: material
+  url: ""
+
+categories:
+  - workshop
+tags:
+  - r
+  - tidyverse
+lastmod: '2020-03-18T02:20:01-07:00'
+featured: no
+image:
+  caption: "[Imagem do Stats Ilustrations da Allison Horst](https://github.com/allisonhorst/stats-illustrations)"
+  focal_point: 'center'
+  preview_only: no
+projects: []
+---
+
+Esse curso intermediário apresenta aos alunos os recursos recentes da utilização da manipulação e visualização de dados através do tidyverse. O tidyverse é um conjunto de pacotes e funções que compartilham uma mesma estrutura visando ajudar os usuários à criar um código eficiente e “organizado”. Os pacotes são focados na organização de dados (leitura, filtragem, organização, seleção e resumo), visualização de dados (ggplot2), programação (purrr), resultados de modelos (broom), além de outros. O curso será teórico-prático, com maior dedicação à realização de exercícios para fixação do conteúdo

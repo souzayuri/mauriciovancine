@@ -1,5 +1,5 @@
 ---
-title: "Teórico e prático sobre rastreamento de mamíferos silvestres brasileiros de médio e grande porte com análise e processamento de dados geoespaciais (R e QGIS)"
+title: "Curso teórico e prático sobre rastreamento de mamíferos silvestres brasileiros de médio e grande porte com análise e processamento de dados geoespaciais (R e QGIS)"
 subtitle: 
 draft: false
 event: "Curso da Selvagem em foco"
