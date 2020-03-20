@@ -20,7 +20,7 @@ links:
   name: material
   url: ""
 - icon: book-open
-  icon_pack: fab
+  icon_pack: fas
   name: flyer
   url: "https://drive.google.com/open?id=1sUZKuUK2JsMKHdM6N-5f_JUtwYPj_j1T"
 
