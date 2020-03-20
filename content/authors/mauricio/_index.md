@@ -17,7 +17,7 @@ email: "mauricio.vancine@gmail.com"
 interests:
 - Spatial Ecology
 - Quantitative Ecology
-- Species Distribution Modeling (SDM)
+- Species Distribution Modeling
 - Amphibiam Ecology
 - Data Science / Statistics
 - Open source / Free software

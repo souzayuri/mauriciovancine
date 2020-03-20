@@ -19,15 +19,21 @@ links:
   icon_pack: fab
   name: material
   url: ""
+- icon: book-open
+  icon_pack: fab
+  name: flyer
+  url: "https://drive.google.com/open?id=1sUZKuUK2JsMKHdM6N-5f_JUtwYPj_j1T"
 
 categories:
   - workshop
 tags:
-  - r
+  - qgis
+  - geoprocessing
+  - geocomputation
 lastmod: "2020-03-18T02:20:01-07:00"
 featured: no
 image:
-  caption: "[Imagem do Stats Ilustrations da Allison Horst](https://github.com/allisonhorst/stats-illustrations)"
+  caption: "[Imagem do QGIS](https://www.qgis.org/en/site/getinvolved/styleguide.html)"
   focal_point: "center"
   preview_only: no
 projects: []
