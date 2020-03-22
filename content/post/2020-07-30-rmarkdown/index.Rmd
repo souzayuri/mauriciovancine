@@ -1,0 +1,18 @@
+---
+title: "RMarkdown"
+authors:
+- mauricio
+date: ""
+summary: "Uma introdução ao RMarkdown"
+image:
+  caption: "[Imagem do Stats Ilustrations da Allison Horst](https://github.com/allisonhorst/stats-illustrations)"
+  focal_point: "center"
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 1
+categories: [r]
+tags: [r]
+---
+
+Escrevendo...
