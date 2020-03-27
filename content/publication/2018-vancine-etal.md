@@ -3,9 +3,10 @@ abstract = "Amphibians are among the most threatened vertebrates in the world an
 
 authors = ["**Maurício Humberto Vancine**", "Kauã da Silva Duarte", "Yuri Silva de Souza", "João Gabriel Ribeiro Giovanelli", "Paulo Mateus Martins‐Sobrinho", "Ariel López", "Rafael Parelli Bovo", "Fábio Maffei", "Marília Bruzzi Lion", "José Wagner Ribeiro Júnior", "Ricardo Brassaloti", "Carolina Ortiz Rocha da Costa", "Henrique Oliveira Sawakuchi", "Lucas Rodriguez Forti", "Pier Cacciali", "Jaime Bertoluci", "Célio Fernando Baptista Haddad", "Milton Cezar Ribeiro"]
 date = "2018-06-28"
+doi = "https://doi.org/10.1002/ecy.2392"
 image_preview = ""
 math = true
-publication_types = ["2"]
+publication_types = ["4"]
 publication = "*Ecology*, 99(7), 1692-1692"
 publication_short = ""
 selected = false

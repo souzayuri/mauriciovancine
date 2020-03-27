@@ -3,6 +3,7 @@ abstract = "Mining causes profound impacts on biodiversity. In Brazil, mining pr
 
 authors = ["João Carlos de Castro Pena", "Fernando Goulart", "G. Wilson", "Fernandes de Diego Hoffmann", "Felipe S. F. Leite", "Natália Britto dos Santos", "Britaldo Soares-Filho", "Thadeu Sobral-Souza", "**Maurício Humberto Vancine**", "Marcos Rodrigues"]
 date = "2017-09-01"
+doi = "https://doi.org/10.1016/j.pecon.2017.07.005"
 image_preview = ""
 math = true
 publication_types = ["2"]

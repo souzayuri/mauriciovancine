@@ -3,6 +3,7 @@ abstract = "Remnant habitat patches immersed within biofuel cropland matrices ca
 
 authors = ["Gabrielle Beca", "**Maurício Humberto Vancine**", "Carolina S. Carvalho", "Felipe Pedrosa", "Rafael Souza C. Alves", "Daiane Buscariol", "Carlos A. Peres", "Milton Cezar Ribeiro", "Mauro Galetti"]
 date = "2017-03-02"
+doi = "https://doi.org/10.1016/j.biocon.2017.02.033"
 image_preview = ""
 math = true
 publication_types = ["2"]

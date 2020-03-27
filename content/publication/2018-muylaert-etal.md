@@ -3,9 +3,10 @@ abstract = "The geographic delimitation of a biome encompasses questions that in
 
 authors = ["Renata de Lara Muylaert", "**Maurício Humberto Vancine**", "Rodrigo Bernardo", "Júlia Emi Faria Oshima", "Thadeu Sobral-Souza", "Vinicus Rodrigues Tonetti", "Bernardo Brandão Niebuhr", "Milton Cezar Ribeiro"]
 date = "2018-05-29"
+doi = "https://doi.org/10.4257/oeco.2018.2203.09"
 image_preview = ""
 math = true
-publication_types = ["2"]
+publication_types = ["4"]
 publication = "*Oecologia Australis*, 22(3), 302-311"
 publication_short = ""
 selected = false

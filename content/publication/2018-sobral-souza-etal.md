@@ -3,6 +3,7 @@ abstract = "The Amazon and Atlantic Forest are considered the world's most biodi
 
 authors = ["Thadeu Sobral-Souza", "**Maurício Humberto Vancine**", "Milton Cezar Ribeiro", "Matheus S. Lima-Ribeiro"]
 date = "2018-01-24"
+doi = "https://doi.org/10.1016/j.actao.2018.01.001"
 image_preview = ""
 math = true
 publication_types = ["2"]

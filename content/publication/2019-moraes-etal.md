@@ -3,6 +3,7 @@ abstract = "The human-induced introductions of marmoset species (*Callithrix* ge
 
 authors = ["Andreia Magro Moraes", "**Maurício Humberto Vancine**", "Andreza Magro Moraes", "Carlos Leandro de Oliveira Cordeiro", "Míriam Plaza Pinto", "Adriana Almeida Lima", "Laurence Culot", "Thiago Sanna Freire Silva", "Rosane Garcia Collevatti", "Milton Cezar Ribeiro", "Thadeu Sobral-Souza"]
 date = "2019-07-06"
+doi = "https://doi.org/10.1016/j.gecco.2019.e00706"
 image_preview = ""
 math = true
 publication_types = ["2"]

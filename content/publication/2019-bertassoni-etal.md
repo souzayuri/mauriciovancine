@@ -3,6 +3,7 @@ abstract = "Land-use changes impact biodiversity, and biofuel crop production an
 
 authors = ["Alessandra Bertassoni", "Rômulo Theodoro Costa", "Jéssica Abonizio Gouvea", "Rita de Cassia Bianchi", "John Wesley Ribeiro", "**Maurício Humberto Vancine**", "Milton Cezar Ribeiro"]
 date = "2019-03-29"
+doi = "https://doi.org/10.1093/jmammal/gyz042"
 image_preview = ""
 math = true
 publication_types = ["2"]

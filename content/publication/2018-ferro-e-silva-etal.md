@@ -3,6 +3,7 @@ abstract = "After obtaining certification of the absence of transmission of the 
 
 authors = ["Andréia Mantovani Ferro e Silva", "Thadeu Sobral-Souza", "**Maurício Humberto Vancine**", "Renata Lara Muylaert", "Ana Paula de Abreu", "Sandra Marisa Pelloso", "Maria Dalva de Barros Carvalho", "Luciano de Andrade", "Milton Cezar Ribeiro", "Max Jean de Ornelas Toledo"]
 date = "2018-10-08"
+doi = " https://doi.org/10.1371/journal.pntd.0006907"
 image_preview = ""
 math = true
 publication_types = ["2"]

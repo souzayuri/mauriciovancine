@@ -3,6 +3,7 @@ abstract = "Habitat fragmentation reduces biodiversity and affects ecological pr
 
 authors = ["André Luis Regolin", "Jorge José Cherem", "Maurício Eduardo Graipel", "Juliano André Bogoni", "John Wesley Ribeiro", "**Maurício Humberto Vancine**", "Marcos Adriano Tortato", "Luiz Gustavo Oliveira-Santos", "Felipe Moreli Fantacini", "Micheli Ribeiro Luiz", "Pedro Volkmer de Castilho", "Milton Cezar Ribeiro", "Nilton Carlos Cáceres"]
 date = "2017-10-09"
+doi = "https://doi.org/10.1093/jmammal/gyx103"
 image_preview = ""
 math = true
 publication_types = ["2"]
