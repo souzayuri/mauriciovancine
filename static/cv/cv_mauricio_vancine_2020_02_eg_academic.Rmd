@@ -14,7 +14,7 @@ Aside
 
 ![Maurício Vanine](https://avatars3.githubusercontent.com/u/13386924?s=400&u=0703ba3f135b168199b99bb3c47e957129baafe2&v=4){width=80%}
 
-PhD student specializing in spatial ecology, quantitative ecology, and ecological data analysis
+Doctoral student specializing in spatial ecology, quantitative ecology, and ecological data analysis
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -60,7 +60,7 @@ Education {data-icon=graduation-cap}
 
 ### São Paulo State University (UNESP)
 
-PhD Student in Zoology
+Doctoral Student in Zoology
 
 Rio Claro, SP, Brazil
 
@@ -72,7 +72,7 @@ Rio Claro, SP, Brazil
 
 ### São Paulo State University (UNESP)
 
-M.S. in Zoology
+MSc in Zoology
 
 Rio Claro, SP, Brazil
 
@@ -84,7 +84,7 @@ Rio Claro, SP, Brazil
 
 ### São Paulo State University (UNESP)
 
-B.S. in Ecology
+BSc in Ecology
 
 Rio Claro, SP, Brazil
 
