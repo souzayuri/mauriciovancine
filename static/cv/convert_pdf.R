@@ -1,8 +1,8 @@
-# -------------------------------------------------------------------------
-# script convert rmarkdown into pdf
-# mauricio vancine
-# 16-11-2019
-# -------------------------------------------------------------------------
+#' ---
+#' title: convert rmarkdown into pdf
+#' author: mauricio vancine
+#' date: 2020-04-06
+#' ---
 
 # packages
 library(pagedown)
