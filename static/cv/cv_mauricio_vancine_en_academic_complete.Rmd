@@ -42,8 +42,8 @@ Languages {#contact}
 
 Disclaimer
 ------------------------------------
-Last updated on `r Sys.Date()`.
-CV by [**pagedown**](https://github.com/rstudio/pagedown) R package.
+Last updated on `r Sys.Date()`. <br>
+CV by [**pagedown**](https://github.com/rstudio/pagedown) R package. <br>
 Code available on `r icon::fa_github()` [GitHub](https://github.com/mauriciovancine/mauriciovancine/tree/master/static/cv). 
 
 Main
