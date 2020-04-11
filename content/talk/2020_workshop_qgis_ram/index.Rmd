@@ -9,10 +9,10 @@ summary: "Curso - Introdução ao geoprocessamento com QGIS"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-05-29T08:00:00Z"
-date_end: "2020-05-30T17:00:00Z"
+date: "2020-09-11T08:00:00Z"
+date_end: "2020-09-12T17:00:00Z"
 all_day: true
-publishdate: "2020-03-18"
+publishdate: "2020-04-11"
 
 links:
 - icon: github
@@ -30,7 +30,7 @@ tags:
   - qgis
   - geoprocessing
   - geocomputation
-lastmod: "2020-03-18T02:20:01-07:00"
+lastmod: "2020-04-11"
 featured: no
 image:
   caption: "[Imagem do QGIS](https://www.qgis.org/en/site/getinvolved/styleguide.html)"

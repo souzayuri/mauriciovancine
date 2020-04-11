@@ -169,21 +169,21 @@ Rio Claro, SP, Brazil
 Scholarship & Awards {data-icon=award}
 --------------------------------------------------------------------------------
 
-### Master Graduate Scholarship
+### Doctoral Graduate Scholarship
 
-São Paulo Research Foundation (FAPESP) (BRL 16,248.54)
+Coordination of Superior Level Staff Improvement (Capes) (BRL 105,600.00)
 <br>
 São Paulo State University (UNESP)
 <br>
-Grant [#2017/09676-8](https://bv.fapesp.br/en/bolsas/172826/effect-of-landscape-modifications-and-climate-changes-on-the-persistence-of-amphibians-in-the-atlant/)
+Grant [88887.480959/2020-00]()
 
 Rio Claro, SP, Brazil
 
-2017 - 2018
+2020 - 2024
 
-**Title**: Effect of Landscape Modifications and Climate Changes on the Persistence of Amphibians in the Atlantic Forest
+**Title**: Landscape changes and community assembly in the Atlantic Forest
 <br>
-**Aim**: (1) to present an assessment of the surveys of the amphibian communities for the Atlantic Forest, their composition and distribution; (2) to investigate how habitat loss and fragmentation on the regional scale can affect the current persistence of amphibians from different reproductive guilds; and (3) to investigate how climate change may affect the future persistence of amphibians of the genus *Brachycephalus*, considered highly sensitive to these climatic changes
+**Aim**: Developing
 
 ::: aside
 
@@ -212,6 +212,22 @@ Rio Claro, SP, Brazil
 `r icon::fa_linux()` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
 
 :::
+
+### Master Graduate Scholarship
+
+São Paulo Research Foundation (FAPESP) (BRL 16,248.54)
+<br>
+São Paulo State University (UNESP)
+<br>
+Grant [#2017/09676-8](https://bv.fapesp.br/en/bolsas/172826/effect-of-landscape-modifications-and-climate-changes-on-the-persistence-of-amphibians-in-the-atlant/)
+
+Rio Claro, SP, Brazil
+
+2017 - 2018
+
+**Title**: Effect of Landscape Modifications and Climate Changes on the Persistence of Amphibians in the Atlantic Forest
+<br>
+**Aim**: (1) to present an assessment of the surveys of the amphibian communities for the Atlantic Forest, their composition and distribution; (2) to investigate how habitat loss and fragmentation on the regional scale can affect the current persistence of amphibians from different reproductive guilds; and (3) to investigate how climate change may affect the future persistence of amphibians of the genus *Brachycephalus*, considered highly sensitive to these climatic changes
 
 ### Scientific Initiation Scholarship
 

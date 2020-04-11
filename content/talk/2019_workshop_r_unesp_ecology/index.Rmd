@@ -25,11 +25,11 @@ categories:
 tags:
   - short course
   - r
-lastmod: '2019-11-05T02:20:01-07:00'
+lastmod: "2019-11-05"
 featured: no
 image:
-  caption: '[Imagem by SEE](http://www.rc.unesp.br/see/)'
-  focal_point: 'center'
+  caption: "[Imagem by SEE](http://www.rc.unesp.br/see/)"
+  focal_point: "center"
   preview_only: no
 projects: []
 ---

@@ -30,11 +30,11 @@ tags:
   - dataset
   - amphibians
   - community ecology
-lastmod: '2018-07-30T02:20:01-07:00'
+lastmod: "2018-07-30"
 featured: no
 image:
-  caption: '[Imagem by ANFoCO](https://asgbrasil.wixsite.com/anfoco)'
-  focal_point: 'center'
+  caption: "[Imagem by ANFoCO](https://asgbrasil.wixsite.com/anfoco)"
+  focal_point: "center"
   preview_only: no
 projects: []
 ---

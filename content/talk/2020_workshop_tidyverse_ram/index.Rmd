@@ -9,10 +9,10 @@ summary: "Curso - Introdução à programação em R usando tidyverse"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-06-05T19:00:00Z"
-date_end: "2020-06-06T12:00:00Z"
+date: "2020-09-25T08:00:00Z"
+date_end: "2020-09-26T17:00:00Z"
 all_day: true
-publishdate: "2020-03-18"
+publishdate: "2020-04-11"
 
 links:
 - icon: github
@@ -29,11 +29,11 @@ categories:
 tags:
   - r
   - tidyverse
-lastmod: '2020-03-18T02:20:01-07:00'
+lastmod: "2020-04-11"
 featured: no
 image:
   caption: "[Imagem do Stats Ilustrations da Allison Horst](https://github.com/allisonhorst/stats-illustrations)"
-  focal_point: 'center'
+  focal_point: "center"
   preview_only: no
 projects: []
 ---
