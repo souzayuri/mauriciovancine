@@ -1,0 +1,182 @@
+---
+title: "Maurício Vancine"
+author: Maurício Vancine
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: resume.css
+---
+
+Aside
+================================================================================
+
+![Maurício Vanine](https://avatars3.githubusercontent.com/u/13386924?s=400&u=0703ba3f135b168199b99bb3c47e957129baafe2&v=4){width=80%}
+
+Ecólogo especialista em análise de dados ecológicos, análise de dados geoespaciais e modelos de distribuição de espécies
+
+Contato {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> mauricio.vancine@gmail.com
+- <i class="fa fa-phone"></i> +55-19-993-340-549
+
+Links {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-link"></i> [mauriciovancine.netlify.com](https://mauriciovancine.netlify.com/)
+- <i class="fa fa-github"></i> [mauriciovancine](https://github.com/mauriciovancine)
+- <i class="fa fa-twitter"></i> [mauriciovancine](https://twitter.com/mauriciovancine)
+- `r icon::ai_lattes()` [9761288418931193](http://lattes.cnpq.br/9761288418931193)
+- `r icon::ai_google_scholar()` [Maurício Vancine](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
+- `r icon::ai_researchgate()` [Mauricio_Vancine2](https://www.researchgate.net/profile/Mauricio_Vancine2)
+- `r icon::ai_orcid()` [0000-0001-9650-7575](https://orcid.org/0000-0001-9650-7575)
+- `r icon::ai_publons()` [Maurício Vancine](https://publons.com/researcher/1391845/mauricio-vancine/)
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- **Programação**: R, "Markdown", Python, Bash e JavaScript
+- **Softwares**: GRASS GIS, QGIS e LINUX/UNIX
+
+Main
+================================================================================
+
+Maurício Vancine {#title}
+--------------------------------------------------------------------------------
+
+### Ecologia Espacial e Ecologia Quantitativa
+
+Formação {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Universidade Estadual Paulista (UNESP), Rio Claro, SP
+
+Mestrado em Zoologia
+
+N/A
+
+2016 - 2018
+
+**Bolsa FAPESP**: [2017/09676-8](https://bv.fapesp.br/en/bolsas/172826/effect-of-landscape-modifications-and-climate-changes-on-the-persistence-of-amphibians-in-the-atlant/)
+<br>
+
+### Universidade Estadual Paulista (UNESP), Rio Claro, SP
+
+Bacharel em Ecologia
+
+N/A
+
+2011 - 2015
+
+**Bolsa FAPESP**: [2013/02883-7](https://bv.fapesp.br/en/bolsas/142421/effect-of-fragmentation-on-the-persistence-of-anuran-amphibians-amphibia-anura-within-the-atlanti/)
+<br>
+
+
+Formação Complementar {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Introdução à Modelagem Hierárquica (45 h)
+
+Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS
+
+N/A
+
+2019
+
+### Geoprocessamento com GRASS GIS (24 h)
+
+Universidade Estadual Paulista (UNESP), Rio Claro, SP
+
+N/A
+
+2016
+
+### V Escola de verão de biologia matemática (53 h)
+
+Universidade Estadual Paulista (UNESP), São Paulo, SP
+
+N/A
+
+2016
+
+### Análise de dados ecológicos com R (40 h)
+
+Universidade Estadual Paulista (UNESP), Rio Claro, SP
+
+N/A
+
+2011
+
+Experiência Profissional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### [RAM Soluções Tecnológicas e Ambientais](https://ramambiental.com.br/)
+
+Sócio-proprietário
+
+N/A
+
+2019
+
+### [PROECO Ambiental](http://www.proecoambiental.com.br/)
+
+Modelos de distribuição de espécies
+
+N/A
+
+2019
+
+### [Seleção Natural](http://selecaonatural.net/)
+
+Análise de dados ecológicos
+
+N/A
+
+2019
+
+### [Aquaflora](https://joao006.wixsite.com/consaquaflora)
+
+Modelos de distribuição de espécies
+
+N/A
+
+2019
+
+### Associação de Levantamento Florestal do Amazonas
+
+Shiny
+
+N/A
+
+2019
+
+### ECOnecta
+
+Análise de dados geoespaciais
+
+N/A
+
+2017
+
+### Pesquisador assistente (2000 h)
+
+Universidade Estadual Paulista (UNESP), Rio Claro, SP
+
+N/A
+
+2016
+
+Análise de dados ecológicos e geoespaciais 
+
+Publicações {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Perfil do [Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
+
+Disclaimer
+------------------------------------
+Última atualização: `r Sys.Date()`
+
+CV gerado pelo [**pagedown**](https://github.com/rstudio/pagedown)
